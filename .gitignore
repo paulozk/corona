@@ -1,6 +1,5 @@
 # csv and jupyter notebooks
 *.csv
-*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
