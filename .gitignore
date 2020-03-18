@@ -1,5 +1,6 @@
-# csv and jupyter notebooks
+# datasets and jupyter notebooks
 *.csv
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
